@@ -16,5 +16,3 @@ Hey there, 👋 I'm `saonxx` - a dedicated developer with a passion for creating
 ![:name](https://count.getloli.com/get/@:saonxx)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saonxx)](https://github.com/ryo-ma/github-profile-trophy)
-
