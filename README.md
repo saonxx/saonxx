@@ -15,4 +15,4 @@ Hey there, 👋 I'm `saonxx` - a dedicated developer with a passion for creating
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saonxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![:name](https://count.getloli.com/get/@:saonxx)
-[![My Skills](https://skillicons.dev/icons?i=wordpress,ae,windows,androidstudio,angular,apollo,apple,appwrite,,atom,au,autocad,babel,c,cs,cpp,,cloudflare,css,cypress,debian,php,ps,discord,bots,discordjs,django,docker,dotnet,ember,emotion,vue,vuetify,firebase,gcp,git,github,gitlab,gmail,gherkin,ai,instagram,java,js,linux,go,vscode,twitter,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,ae,windows,androidstudio,angular,apollo,apple,appwrite,,atom,au,autocad,babel,cs,cpp,,cloudflare,css,cypress,debian,php,ps,discord,bots,discordjs,django,docker,dotnet,ember,emotion,vue,vuetify,firebase,gcp,git,github,gitlab,gmail,gherkin,ai,instagram,java,js,linux,go,vscode,twitter,svelte)](https://skillicons.dev)
