@@ -16,3 +16,4 @@ Hey there, 👋 I'm `saonxx` - a dedicated developer with a passion for creating
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saonxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![:name](https://count.getloli.com/get/@:saonxx)
 ---
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ae,anaconda,au,azure,c,cs,cpp,crystal,discord,gamemakerstudio,github,git,unreal,vite,wordpress)](https://skillicons.dev)
